@@ -1,0 +1,5 @@
+# Interacao com Minio
+boto3==1.35.19
+
+# Dataframes
+pandas==2.2.2
